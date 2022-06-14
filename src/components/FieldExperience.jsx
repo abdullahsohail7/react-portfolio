@@ -70,10 +70,10 @@ const FieldExperience = () => {
                         className={`shadow-md  hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
                     <img src={src} 
                     alt="" 
-                    size={20}
-                    className='flex flex-row justify-center items-center w-20 h-2/3 mx-auto'/>
+                    size={18}
+                    className='flex flex-row justify-center items-center w-18 h-2/3 mx-auto'/>
                     
-                        <p className=' mt-2  '>{title}</p>
+                        <p className=' mt-1 align-baseline  '>{title}</p>
                         
                     
                         

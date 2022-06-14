@@ -62,7 +62,7 @@ const FieldExperience = () => {
                 </p>
                 </div>
 
-                <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0'>
+                <div className='w-full grid grid-cols-2 sm:grid-cols-3 gap-6 text-center py-8 px-12 sm:px-0'>
                     {techs.map(({id, src, title, style}) =>(
                         
                         
@@ -71,7 +71,7 @@ const FieldExperience = () => {
                     <img src={src} 
                     alt="" 
                     size={20}
-                    className='flex flex-row justify-center items-center w-25 h-2/3 mx-auto'/>
+                    className='flex flex-row justify-center items-center w-20 h-2/3 mx-auto'/>
                     
                         <p className=' mt-2  '>{title}</p>
                         

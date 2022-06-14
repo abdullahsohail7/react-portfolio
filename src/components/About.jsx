@@ -9,15 +9,28 @@ const About = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>
 About                </p>
                 
-            
-            <p className='text-xl mt-20'>
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quo, ad, repudiandae sit quidem fugiat quis facilis molestias laudantium quae ratione laboriosam porro tempora nesciunt corrupti magni commodi aliquid reiciendis eum architecto error. Atque omnis inventore ab praesentium quis soluta magni quia cum veniam cumque, amet dolorem veritatis eum nam eligendi.                </p>
-            <br />
+            <div className='py-3 px-3 shadow-lg shadow-purple-800'>
+            <p className='text-2xl inline mt-20'>
+CEO at Square Foot Industries            </p>
+</div>
         
-            
-            <p className='text-xl py-4'>
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat beatae impedit illum repellendus accusantium molestiae non reiciendis! Totam delectus in repellendus, aliquid amet sed nobis laboriosam error id, excepturi alias debitis odit numquam cum molestiae cumque veritatis velit porro aspernatur nisi hic enim. Corporis minima sed aliquid, sequi voluptate quod!            </p>
-            </div>
+            <div className='py-4'>
+            <p className='text-l py-1'>
+• Launched an FMCG Startup in 2018.</p> 
+<p className='text-l py-1'>• Leveraged planning knowledge to drive supply chain activities through the creation, modification and implementation of
+efficient production plans. Efficient assembly systems were installed to ensure 15% more cost effective production process.</p>
+<p className='text-l py-1'>• Was able to create a strong Sales Network spanning 45 different cities.</p> 
+<p className='text-l py-1'>• In charge of hiring work force, managing operations on the floor, strategizing on every turn for market entrants.</p> 
+<p className='text-l py-1'>• Extensive Experience in Logistics and Warehouse Management.</p> 
+<p className='text-l py-1'>• Integrated ERP procedures to ensure smooth sales and purchase reports.</p> 
+<p className='text-l py-1'>• Implemented weekly sales analysis system to understand customer’s seasonal needs and deliver products accordingly.</p> 
+<p className='text-l py-1'>• Great experience in liaising with clients, suppliers and transport companies.</p> 
+<p className='text-l py-1'>• Monitored and communicated about the performance through KPIs Set dealer production allocation plans and stock</p>
+planning. 
+<p className='text-l py-1'>• Resolution of Dealer Issues with stock, customer orders.</p> 
+<p className='text-l py-1'>• Weekly production management/ coordination with principle for production requests.</p>            
+       </div>
+       </div>
         </div>
     </div>
   )

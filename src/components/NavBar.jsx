@@ -23,7 +23,7 @@ const NavBar = () => {
         },
         {
             id: 5,
-            link : "contact",
+            link : "Field Experience",
         },
     ];
   return (

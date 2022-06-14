@@ -6,7 +6,7 @@ import PO from "../assets/PO.jpeg"
 import SE from "../assets/SE.jpeg"
 import TL from "../assets/TL.png"
 
-const contact = () => {
+const FieldExperience = () => {
     const techs=[
         {
             id:1,
@@ -104,4 +104,4 @@ const contact = () => {
   );
 };
 
-export default contact
+export default FieldExperience

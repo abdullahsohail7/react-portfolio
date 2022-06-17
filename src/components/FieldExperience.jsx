@@ -24,15 +24,15 @@ const FieldExperience = () => {
 
         {
             id:3,
-            src:EPM,
-            title: "Engineering Management",
+            src:PO,
+            title: "Product Management",
             style : "shadow-yellow-500"
         },
         {
             id:4,
-            src:PO ,
-            title: "Product Ownership",
-            style : "shadow-yellow-500"
+            src:EPM ,
+            title: "Engineering Management",
+            style : "shadow-green-800"
         },
         {
             id:5,

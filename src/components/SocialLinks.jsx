@@ -39,7 +39,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: '/Syed Abdullah Abbas Sohail C.pdf',
+            href: '',
             style: 'rounded-br-md',
             download: true,
         },
